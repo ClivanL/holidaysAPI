@@ -9,4 +9,6 @@
   * dotenv - PORT
 * Deploy to heroku
 * Create a react project
-* 
+  * Build local react
+  * setup heroku post build
+  * 
