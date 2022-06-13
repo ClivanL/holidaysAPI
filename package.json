@@ -1,0 +1,27 @@
+{
+  "name": "holidayapi",
+  "version": "1.0.0",
+  "description": "## Expres on Heroku",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ClivanL/HolidayAPI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ClivanL/HolidayAPI/issues"
+  },
+  "homepage": "https://github.com/ClivanL/HolidayAPI#readme",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "mongoose": "^6.3.6",
+    "nodemon": "^2.0.16"
+  }
+}
